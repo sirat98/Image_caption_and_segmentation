@@ -37,5 +37,5 @@ An interactive deep learning web application built using **Streamlit** that perf
 <img width="1890" height="917" alt="Screenshot 2025-07-24 185154" src="https://github.com/user-attachments/assets/9044f8a5-0b7c-450e-98c8-088b03af0c24" />
 <img width="1255" height="660" alt="Screenshot 2025-07-24 185245" src="https://github.com/user-attachments/assets/13e03e15-6127-4f79-844b-b511bec90c9f" />
 <img width="1897" height="916" alt="Screenshot 2025-07-24 185258" src="https://github.com/user-attachments/assets/898eadbc-b6e5-49ef-8487-f844735a4370" />
-- In this project chaintanya have worked on Image segmentation part.
+- In this project chaintanya have worked on Image segmentation part.HERE THE MODELS ARE NOT BEING UPLOADED DUE TO THE LARGE SIZE OF THE FILES
 ---
